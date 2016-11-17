@@ -6,12 +6,7 @@
     "storeKeywords": false,
     "trackKeywords": "",
     "excludeKeywords": "",
-    "filters": [
-      "snapkite-filter-is-possibly-sensitive",
-      "snapkite-filter-has-mobile-photo",
-      "snapkite-filter-is-retweet",
-      "snapkite-filter-has-text"
-    ]
+    "filters": []
   },
   "twitter": {
     "api": {
